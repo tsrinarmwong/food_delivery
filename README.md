@@ -3,4 +3,4 @@
 A new Flutter project.
 
 
-AYO test
+a guided project by Romain Girou. BLoC and login auth implemented, now need front end to complete it
