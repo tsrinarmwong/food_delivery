@@ -1,0 +1,18 @@
+"/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/AsyncAwait/CollectionReference+AsyncAwait.swift":
+  swift-dependencies: "/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+AsyncAwait.swiftdeps"
+  dependencies: "/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+AsyncAwait.d"
+  object: "/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+AsyncAwait.o"
+  diagnostics: "/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+AsyncAwait.dia"
+  const-values: "/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+AsyncAwait.swiftconstvalues"
+"/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/CodablePassThroughTypes.swift":
+  diagnostics: "/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/CodablePassThroughTypes.dia"
+  const-values: "/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/CodablePassThroughTypes.swiftconstvalues"
+  object: "/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/CodablePassThroughTypes.o"
+  dependencies: "/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/CodablePassThroughTypes.d"
+  swift-dependencies: "/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/CodablePassThroughTypes.swiftdeps"
+"/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/CodableErrors.swift":
+  object: "/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/CodableErrors.o"
+  dependencies: "/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/CodableErrors.d"
+  swift-dependencies: "/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/CodableErrors.swiftdeps"
+  const-values: "/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/CodableErrors.swiftconstvalues"
+  diagnostics: "/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/CodableErrors.dia"

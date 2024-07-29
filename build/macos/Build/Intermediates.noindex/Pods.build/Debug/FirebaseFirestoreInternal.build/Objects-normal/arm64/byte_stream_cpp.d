@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/macos/Pods/FirebaseFirestoreInternal/Firestore/core/src/util/byte_stream_cpp.cc \
+  /Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/macos/Pods/FirebaseFirestoreInternal/Firestore/core/src/util/byte_stream_cpp.h \
+  /Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/macos/Pods/FirebaseFirestoreInternal/Firestore/core/src/util/byte_stream.h \
+  /Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/macos/Pods/FirebaseFirestoreInternal/Firestore/core/src/util/statusor.h \
+  /Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/macos/Pods/FirebaseFirestoreInternal/Firestore/core/include/firebase/firestore/firestore_errors.h \
+  /Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/macos/Pods/FirebaseFirestoreInternal/Firestore/core/src/util/status.h \
+  /Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/macos/Pods/FirebaseFirestoreInternal/Firestore/core/src/util/status_fwd.h \
+  /Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/attributes.h \
+  /Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/config.h \
+  /Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/options.h \
+  /Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/policy_checks.h \
+  /Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/strings/string_view.h \
+  /Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/nullability.h \
+  /Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/nullability_impl.h \
+  /Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/meta/type_traits.h \
+  /Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/internal/throw_delegate.h \
+  /Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/macros.h \
+  /Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/optimization.h \
+  /Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Products/Debug/abseil/absl.framework/Headers/base/port.h \
+  /Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/macos/Pods/FirebaseFirestoreInternal/Firestore/core/src/util/statusor_internals.h

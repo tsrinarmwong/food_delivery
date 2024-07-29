@@ -1,0 +1,18 @@
+"/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/GeoPoint+Codable.swift":
+  const-values: "/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/GeoPoint+Codable.swiftconstvalues"
+  swift-dependencies: "/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/GeoPoint+Codable.swiftdeps"
+  object: "/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/GeoPoint+Codable.o"
+  diagnostics: "/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/GeoPoint+Codable.dia"
+  dependencies: "/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/GeoPoint+Codable.d"
+"/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/ServerTimestamp.swift":
+  diagnostics: "/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/ServerTimestamp.dia"
+  object: "/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/ServerTimestamp.o"
+  dependencies: "/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/ServerTimestamp.d"
+  swift-dependencies: "/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/ServerTimestamp.swiftdeps"
+  const-values: "/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/ServerTimestamp.swiftconstvalues"
+"/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/PropertyWrapper/QueryPredicate.swift":
+  dependencies: "/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/QueryPredicate.d"
+  diagnostics: "/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/QueryPredicate.dia"
+  const-values: "/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/QueryPredicate.swiftconstvalues"
+  object: "/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/QueryPredicate.o"
+  swift-dependencies: "/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/QueryPredicate.swiftdeps"

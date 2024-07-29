@@ -1,0 +1,18 @@
+"/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/AsyncAwait/Firestore+AsyncAwait.swift":
+  dependencies: "/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/Firestore+AsyncAwait.d"
+  diagnostics: "/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/Firestore+AsyncAwait.dia"
+  swift-dependencies: "/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/Firestore+AsyncAwait.swiftdeps"
+  const-values: "/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/Firestore+AsyncAwait.swiftconstvalues"
+  object: "/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/Firestore+AsyncAwait.o"
+"/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/PropertyWrapper/FirestoreQuery.swift":
+  object: "/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQuery.o"
+  const-values: "/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQuery.swiftconstvalues"
+  swift-dependencies: "/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQuery.swiftdeps"
+  diagnostics: "/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQuery.dia"
+  dependencies: "/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQuery.d"
+"/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/macos/Pods/FirebaseFirestore/Firestore/Swift/Source/PropertyWrapper/FirestoreQueryObservable.swift":
+  object: "/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQueryObservable.o"
+  swift-dependencies: "/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQueryObservable.swiftdeps"
+  const-values: "/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQueryObservable.swiftconstvalues"
+  diagnostics: "/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQueryObservable.dia"
+  dependencies: "/Users/thitipunsrinarmwong/Documents/CODING/Flutter/food_delivery/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseFirestore.build/Objects-normal/arm64/FirestoreQueryObservable.d"
